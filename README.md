@@ -1,4 +1,4 @@
-### python extecise start printing
+### star printing part 01
 
 
 ### Tasks
@@ -6,10 +6,10 @@
 
 * make a fork
 * clone your fork repositiory
-* open .py files (
-`01_compute_payment_start.py, 02_compute_payment_with_over_time.py, 03_compute_payment_with_over_time_and_error_message.py, 04_compute_payment_with_over_time_and_error_message_in_function.py, 05_compute_payment_with_over_or_leave_time_and_error_message_in_function.py
-)`
-* You will get the task description with starting codes
+* open .py files (` 01.py to 09.py `)
+* You will get the task description (shape with star and numbers) with starting codes
+* Open 01.py you will get the shape and relative code to print the shape. It will help you to solve next problems.
+* Take time and think how you can solve those problems
 * solve the problems
 * add files to the git
 * make a commit
